@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "download_url": "https://github.com/AnnorakGit/ConsentimientosClinicaDental-releases/releases/download/v1.0.0/ConsentimientosDental.exe",
-  "notas": "Primera versión oficial.",
+  "notas": "Primera versión oficial. Requiere LibreOffice instalado.",
   "fecha": "2026-03-02"
 }
